@@ -1,0 +1,13 @@
+D:\C#\Chuong4_2015597\Bai1\bin\Debug\netcoreapp3.1\CheckCredit.exe
+D:\C#\Chuong4_2015597\Bai1\bin\Debug\netcoreapp3.1\CheckCredit.deps.json
+D:\C#\Chuong4_2015597\Bai1\bin\Debug\netcoreapp3.1\CheckCredit.runtimeconfig.json
+D:\C#\Chuong4_2015597\Bai1\bin\Debug\netcoreapp3.1\CheckCredit.runtimeconfig.dev.json
+D:\C#\Chuong4_2015597\Bai1\bin\Debug\netcoreapp3.1\CheckCredit.dll
+D:\C#\Chuong4_2015597\Bai1\bin\Debug\netcoreapp3.1\CheckCredit.pdb
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.csprojAssemblyReference.cache
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.AssemblyInfoInputs.cache
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.AssemblyInfo.cs
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.csproj.CoreCompileInputs.cache
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.dll
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.pdb
+D:\C#\Chuong4_2015597\Bai1\obj\Debug\netcoreapp3.1\CheckCredit.genruntimeconfig.cache

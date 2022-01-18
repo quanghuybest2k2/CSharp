@@ -1,0 +1,12 @@
+D:\C#\Chuong2_2015597\Bai22\bin\Debug\netcoreapp3.1\MoveEstimator.exe
+D:\C#\Chuong2_2015597\Bai22\bin\Debug\netcoreapp3.1\MoveEstimator.deps.json
+D:\C#\Chuong2_2015597\Bai22\bin\Debug\netcoreapp3.1\MoveEstimator.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai22\bin\Debug\netcoreapp3.1\MoveEstimator.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai22\bin\Debug\netcoreapp3.1\MoveEstimator.dll
+D:\C#\Chuong2_2015597\Bai22\bin\Debug\netcoreapp3.1\MoveEstimator.pdb
+D:\C#\Chuong2_2015597\Bai22\obj\Debug\netcoreapp3.1\MoveEstimator.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai22\obj\Debug\netcoreapp3.1\MoveEstimator.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai22\obj\Debug\netcoreapp3.1\MoveEstimator.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai22\obj\Debug\netcoreapp3.1\MoveEstimator.dll
+D:\C#\Chuong2_2015597\Bai22\obj\Debug\netcoreapp3.1\MoveEstimator.pdb
+D:\C#\Chuong2_2015597\Bai22\obj\Debug\netcoreapp3.1\MoveEstimator.genruntimeconfig.cache

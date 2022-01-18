@@ -1,0 +1,14 @@
+D:\C#\OnLaiCS\OnLaiCS\bin\Debug\netcoreapp3.1\OnLaiCS.exe
+D:\C#\OnLaiCS\OnLaiCS\bin\Debug\netcoreapp3.1\OnLaiCS.deps.json
+D:\C#\OnLaiCS\OnLaiCS\bin\Debug\netcoreapp3.1\OnLaiCS.runtimeconfig.json
+D:\C#\OnLaiCS\OnLaiCS\bin\Debug\netcoreapp3.1\OnLaiCS.runtimeconfig.dev.json
+D:\C#\OnLaiCS\OnLaiCS\bin\Debug\netcoreapp3.1\OnLaiCS.dll
+D:\C#\OnLaiCS\OnLaiCS\bin\Debug\netcoreapp3.1\OnLaiCS.pdb
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.csproj.AssemblyReference.cache
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.AssemblyInfoInputs.cache
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.AssemblyInfo.cs
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.csproj.CoreCompileInputs.cache
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.dll
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.pdb
+D:\C#\OnLaiCS\OnLaiCS\obj\Debug\netcoreapp3.1\OnLaiCS.genruntimeconfig.cache

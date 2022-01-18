@@ -1,0 +1,12 @@
+D:\C#\Chuong2_2015597\Bai20\bin\Debug\netcoreapp3.1\Eggs.exe
+D:\C#\Chuong2_2015597\Bai20\bin\Debug\netcoreapp3.1\Eggs.deps.json
+D:\C#\Chuong2_2015597\Bai20\bin\Debug\netcoreapp3.1\Eggs.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai20\bin\Debug\netcoreapp3.1\Eggs.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai20\bin\Debug\netcoreapp3.1\Eggs.dll
+D:\C#\Chuong2_2015597\Bai20\bin\Debug\netcoreapp3.1\Eggs.pdb
+D:\C#\Chuong2_2015597\Bai20\obj\Debug\netcoreapp3.1\Eggs.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai20\obj\Debug\netcoreapp3.1\Eggs.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai20\obj\Debug\netcoreapp3.1\Eggs.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai20\obj\Debug\netcoreapp3.1\Eggs.dll
+D:\C#\Chuong2_2015597\Bai20\obj\Debug\netcoreapp3.1\Eggs.pdb
+D:\C#\Chuong2_2015597\Bai20\obj\Debug\netcoreapp3.1\Eggs.genruntimeconfig.cache

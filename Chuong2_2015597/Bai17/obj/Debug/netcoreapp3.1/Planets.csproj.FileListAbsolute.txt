@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Planets.exe
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Planets.deps.json
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Planets.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Planets.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Planets.dll
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Planets.pdb
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.csprojAssemblyReference.cache
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.dll
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.pdb
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Planets.genruntimeconfig.cache

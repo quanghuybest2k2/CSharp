@@ -1,0 +1,13 @@
+D:\C#\Chuong4_2015597\Bai3\bin\Debug\netcoreapp3.1\Admission.exe
+D:\C#\Chuong4_2015597\Bai3\bin\Debug\netcoreapp3.1\Admission.deps.json
+D:\C#\Chuong4_2015597\Bai3\bin\Debug\netcoreapp3.1\Admission.runtimeconfig.json
+D:\C#\Chuong4_2015597\Bai3\bin\Debug\netcoreapp3.1\Admission.runtimeconfig.dev.json
+D:\C#\Chuong4_2015597\Bai3\bin\Debug\netcoreapp3.1\Admission.dll
+D:\C#\Chuong4_2015597\Bai3\bin\Debug\netcoreapp3.1\Admission.pdb
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.csprojAssemblyReference.cache
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.AssemblyInfoInputs.cache
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.AssemblyInfo.cs
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.csproj.CoreCompileInputs.cache
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.dll
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.pdb
+D:\C#\Chuong4_2015597\Bai3\obj\Debug\netcoreapp3.1\Admission.genruntimeconfig.cache

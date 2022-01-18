@@ -1,0 +1,12 @@
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\HoursAndMinutes.exe
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\HoursAndMinutes.deps.json
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\HoursAndMinutes.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\HoursAndMinutes.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\HoursAndMinutes.dll
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\HoursAndMinutes.pdb
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\HoursAndMinutes.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\HoursAndMinutes.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\HoursAndMinutes.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\HoursAndMinutes.dll
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\HoursAndMinutes.pdb
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\HoursAndMinutes.genruntimeconfig.cache

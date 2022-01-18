@@ -1,0 +1,12 @@
+D:\C#\Chuong2_2015597\Bai4\bin\Debug\netcoreapp3.1\DoubleDecimalTest.exe
+D:\C#\Chuong2_2015597\Bai4\bin\Debug\netcoreapp3.1\DoubleDecimalTest.deps.json
+D:\C#\Chuong2_2015597\Bai4\bin\Debug\netcoreapp3.1\DoubleDecimalTest.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai4\bin\Debug\netcoreapp3.1\DoubleDecimalTest.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai4\bin\Debug\netcoreapp3.1\DoubleDecimalTest.dll
+D:\C#\Chuong2_2015597\Bai4\bin\Debug\netcoreapp3.1\DoubleDecimalTest.pdb
+D:\C#\Chuong2_2015597\Bai4\obj\Debug\netcoreapp3.1\DoubleDecimalTest.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai4\obj\Debug\netcoreapp3.1\DoubleDecimalTest.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai4\obj\Debug\netcoreapp3.1\DoubleDecimalTest.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai4\obj\Debug\netcoreapp3.1\DoubleDecimalTest.dll
+D:\C#\Chuong2_2015597\Bai4\obj\Debug\netcoreapp3.1\DoubleDecimalTest.pdb
+D:\C#\Chuong2_2015597\Bai4\obj\Debug\netcoreapp3.1\DoubleDecimalTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\HocCS\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.exe
+D:\C#\HocCS\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.deps.json
+D:\C#\HocCS\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.runtimeconfig.json
+D:\C#\HocCS\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.runtimeconfig.dev.json
+D:\C#\HocCS\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.dll
+D:\C#\HocCS\ChuyenTien\bin\Debug\netcoreapp3.1\ChuyenTien.pdb
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.AssemblyInfoInputs.cache
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.AssemblyInfo.cs
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.csproj.CoreCompileInputs.cache
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.dll
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.pdb
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.genruntimeconfig.cache
+D:\C#\HocCS\ChuyenTien\obj\Debug\netcoreapp3.1\ChuyenTien.csprojAssemblyReference.cache

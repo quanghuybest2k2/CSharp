@@ -1,0 +1,13 @@
+D:\C#\Chuong4_2015597\Bai2\bin\Debug\netcoreapp3.1\Twitter.exe
+D:\C#\Chuong4_2015597\Bai2\bin\Debug\netcoreapp3.1\Twitter.deps.json
+D:\C#\Chuong4_2015597\Bai2\bin\Debug\netcoreapp3.1\Twitter.runtimeconfig.json
+D:\C#\Chuong4_2015597\Bai2\bin\Debug\netcoreapp3.1\Twitter.runtimeconfig.dev.json
+D:\C#\Chuong4_2015597\Bai2\bin\Debug\netcoreapp3.1\Twitter.dll
+D:\C#\Chuong4_2015597\Bai2\bin\Debug\netcoreapp3.1\Twitter.pdb
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.csprojAssemblyReference.cache
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.AssemblyInfoInputs.cache
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.AssemblyInfo.cs
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.csproj.CoreCompileInputs.cache
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.dll
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.pdb
+D:\C#\Chuong4_2015597\Bai2\obj\Debug\netcoreapp3.1\Twitter.genruntimeconfig.cache

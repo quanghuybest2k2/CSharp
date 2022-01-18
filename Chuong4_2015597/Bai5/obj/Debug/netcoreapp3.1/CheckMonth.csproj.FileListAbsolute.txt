@@ -1,0 +1,12 @@
+D:\C#\Chuong4_2015597\Bai5\bin\Debug\netcoreapp3.1\CheckMonth.exe
+D:\C#\Chuong4_2015597\Bai5\bin\Debug\netcoreapp3.1\CheckMonth.deps.json
+D:\C#\Chuong4_2015597\Bai5\bin\Debug\netcoreapp3.1\CheckMonth.runtimeconfig.json
+D:\C#\Chuong4_2015597\Bai5\bin\Debug\netcoreapp3.1\CheckMonth.runtimeconfig.dev.json
+D:\C#\Chuong4_2015597\Bai5\bin\Debug\netcoreapp3.1\CheckMonth.dll
+D:\C#\Chuong4_2015597\Bai5\bin\Debug\netcoreapp3.1\CheckMonth.pdb
+D:\C#\Chuong4_2015597\Bai5\obj\Debug\netcoreapp3.1\CheckMonth.AssemblyInfoInputs.cache
+D:\C#\Chuong4_2015597\Bai5\obj\Debug\netcoreapp3.1\CheckMonth.AssemblyInfo.cs
+D:\C#\Chuong4_2015597\Bai5\obj\Debug\netcoreapp3.1\CheckMonth.csproj.CoreCompileInputs.cache
+D:\C#\Chuong4_2015597\Bai5\obj\Debug\netcoreapp3.1\CheckMonth.dll
+D:\C#\Chuong4_2015597\Bai5\obj\Debug\netcoreapp3.1\CheckMonth.pdb
+D:\C#\Chuong4_2015597\Bai5\obj\Debug\netcoreapp3.1\CheckMonth.genruntimeconfig.cache

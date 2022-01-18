@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\Bai10.exe
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\Bai10.deps.json
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\Bai10.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\Bai10.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\Bai10.dll
+D:\C#\Chuong2_2015597\Bai10\bin\Debug\netcoreapp3.1\Bai10.pdb
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.dll
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.pdb
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.genruntimeconfig.cache
+D:\C#\Chuong2_2015597\Bai10\obj\Debug\netcoreapp3.1\Bai10.csprojAssemblyReference.cache

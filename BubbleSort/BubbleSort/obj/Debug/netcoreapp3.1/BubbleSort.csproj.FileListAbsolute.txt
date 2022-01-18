@@ -1,0 +1,13 @@
+D:\C#\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+D:\C#\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+D:\C#\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+D:\C#\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+D:\C#\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+D:\C#\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.AssemblyReference.cache
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+D:\C#\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

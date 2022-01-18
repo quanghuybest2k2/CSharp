@@ -1,0 +1,13 @@
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.csprojAssemblyReference.cache
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.AssemblyInfoInputs.cache
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.AssemblyInfo.cs
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.csproj.CoreCompileInputs.cache
+D:\C#\HocCS\TestBai4\bin\Debug\netcoreapp3.1\TestBai4.exe
+D:\C#\HocCS\TestBai4\bin\Debug\netcoreapp3.1\TestBai4.deps.json
+D:\C#\HocCS\TestBai4\bin\Debug\netcoreapp3.1\TestBai4.runtimeconfig.json
+D:\C#\HocCS\TestBai4\bin\Debug\netcoreapp3.1\TestBai4.runtimeconfig.dev.json
+D:\C#\HocCS\TestBai4\bin\Debug\netcoreapp3.1\TestBai4.dll
+D:\C#\HocCS\TestBai4\bin\Debug\netcoreapp3.1\TestBai4.pdb
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.dll
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.pdb
+D:\C#\HocCS\TestBai4\obj\Debug\netcoreapp3.1\TestBai4.genruntimeconfig.cache

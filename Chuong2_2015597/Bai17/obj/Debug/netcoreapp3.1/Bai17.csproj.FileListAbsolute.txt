@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Bai17.exe
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Bai17.deps.json
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Bai17.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Bai17.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Bai17.dll
+D:\C#\Chuong2_2015597\Bai17\bin\Debug\netcoreapp3.1\Bai17.pdb
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.csprojAssemblyReference.cache
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.dll
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.pdb
+D:\C#\Chuong2_2015597\Bai17\obj\Debug\netcoreapp3.1\Bai17.genruntimeconfig.cache

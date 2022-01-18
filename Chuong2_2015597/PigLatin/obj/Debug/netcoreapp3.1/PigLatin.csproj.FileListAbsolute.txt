@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.exe
+D:\C#\Chuong2_2015597\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.deps.json
+D:\C#\Chuong2_2015597\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.json
+D:\C#\Chuong2_2015597\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.dll
+D:\C#\Chuong2_2015597\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.pdb
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csprojAssemblyReference.cache
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.dll
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.pdb
+D:\C#\Chuong2_2015597\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.genruntimeconfig.cache

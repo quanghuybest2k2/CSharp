@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai7\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.exe
+D:\C#\Chuong2_2015597\Bai7\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.deps.json
+D:\C#\Chuong2_2015597\Bai7\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai7\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai7\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.dll
+D:\C#\Chuong2_2015597\Bai7\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.pdb
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.csprojAssemblyReference.cache
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.dll
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.pdb
+D:\C#\Chuong2_2015597\Bai7\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.genruntimeconfig.cache

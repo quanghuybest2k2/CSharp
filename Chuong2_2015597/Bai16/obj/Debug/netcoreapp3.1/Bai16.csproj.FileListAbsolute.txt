@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai16\bin\Debug\netcoreapp3.1\Bai16.exe
+D:\C#\Chuong2_2015597\Bai16\bin\Debug\netcoreapp3.1\Bai16.deps.json
+D:\C#\Chuong2_2015597\Bai16\bin\Debug\netcoreapp3.1\Bai16.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai16\bin\Debug\netcoreapp3.1\Bai16.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai16\bin\Debug\netcoreapp3.1\Bai16.dll
+D:\C#\Chuong2_2015597\Bai16\bin\Debug\netcoreapp3.1\Bai16.pdb
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.dll
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.pdb
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.genruntimeconfig.cache
+D:\C#\Chuong2_2015597\Bai16\obj\Debug\netcoreapp3.1\Bai16.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai13\bin\Debug\netcoreapp3.1\MakeChange.exe
+D:\C#\Chuong2_2015597\Bai13\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+D:\C#\Chuong2_2015597\Bai13\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai13\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai13\bin\Debug\netcoreapp3.1\MakeChange.dll
+D:\C#\Chuong2_2015597\Bai13\bin\Debug\netcoreapp3.1\MakeChange.pdb
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.dll
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.pdb
+D:\C#\Chuong2_2015597\Bai13\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache

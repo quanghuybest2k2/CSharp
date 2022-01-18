@@ -1,0 +1,13 @@
+D:\C#\Chuong2_2015597\Bai6\bin\Debug\netcoreapp3.1\InchesToCentmeters.exe
+D:\C#\Chuong2_2015597\Bai6\bin\Debug\netcoreapp3.1\InchesToCentmeters.deps.json
+D:\C#\Chuong2_2015597\Bai6\bin\Debug\netcoreapp3.1\InchesToCentmeters.runtimeconfig.json
+D:\C#\Chuong2_2015597\Bai6\bin\Debug\netcoreapp3.1\InchesToCentmeters.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\Bai6\bin\Debug\netcoreapp3.1\InchesToCentmeters.dll
+D:\C#\Chuong2_2015597\Bai6\bin\Debug\netcoreapp3.1\InchesToCentmeters.pdb
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.csprojAssemblyReference.cache
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.dll
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.pdb
+D:\C#\Chuong2_2015597\Bai6\obj\Debug\netcoreapp3.1\InchesToCentmeters.genruntimeconfig.cache

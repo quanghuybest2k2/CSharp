@@ -1,0 +1,13 @@
+D:\C#\HocCS\Mang1Chieu\bin\Debug\netcoreapp3.1\Mang1Chieu.exe
+D:\C#\HocCS\Mang1Chieu\bin\Debug\netcoreapp3.1\Mang1Chieu.deps.json
+D:\C#\HocCS\Mang1Chieu\bin\Debug\netcoreapp3.1\Mang1Chieu.runtimeconfig.json
+D:\C#\HocCS\Mang1Chieu\bin\Debug\netcoreapp3.1\Mang1Chieu.runtimeconfig.dev.json
+D:\C#\HocCS\Mang1Chieu\bin\Debug\netcoreapp3.1\Mang1Chieu.dll
+D:\C#\HocCS\Mang1Chieu\bin\Debug\netcoreapp3.1\Mang1Chieu.pdb
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.csprojAssemblyReference.cache
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.AssemblyInfoInputs.cache
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.AssemblyInfo.cs
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.csproj.CoreCompileInputs.cache
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.dll
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.pdb
+D:\C#\HocCS\Mang1Chieu\obj\Debug\netcoreapp3.1\Mang1Chieu.genruntimeconfig.cache

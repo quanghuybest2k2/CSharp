@@ -1,0 +1,13 @@
+D:\C#\Chuong4_2015597\Bai4\bin\Debug\netcoreapp3.1\Hurricane.exe
+D:\C#\Chuong4_2015597\Bai4\bin\Debug\netcoreapp3.1\Hurricane.deps.json
+D:\C#\Chuong4_2015597\Bai4\bin\Debug\netcoreapp3.1\Hurricane.runtimeconfig.json
+D:\C#\Chuong4_2015597\Bai4\bin\Debug\netcoreapp3.1\Hurricane.runtimeconfig.dev.json
+D:\C#\Chuong4_2015597\Bai4\bin\Debug\netcoreapp3.1\Hurricane.dll
+D:\C#\Chuong4_2015597\Bai4\bin\Debug\netcoreapp3.1\Hurricane.pdb
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.csprojAssemblyReference.cache
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.AssemblyInfoInputs.cache
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.AssemblyInfo.cs
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.csproj.CoreCompileInputs.cache
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.dll
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.pdb
+D:\C#\Chuong4_2015597\Bai4\obj\Debug\netcoreapp3.1\Hurricane.genruntimeconfig.cache

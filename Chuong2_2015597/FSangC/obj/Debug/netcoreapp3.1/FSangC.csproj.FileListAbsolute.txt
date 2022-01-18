@@ -1,0 +1,12 @@
+D:\C#\Chuong2_2015597\FSangC\bin\Debug\netcoreapp3.1\FSangC.exe
+D:\C#\Chuong2_2015597\FSangC\bin\Debug\netcoreapp3.1\FSangC.deps.json
+D:\C#\Chuong2_2015597\FSangC\bin\Debug\netcoreapp3.1\FSangC.runtimeconfig.json
+D:\C#\Chuong2_2015597\FSangC\bin\Debug\netcoreapp3.1\FSangC.runtimeconfig.dev.json
+D:\C#\Chuong2_2015597\FSangC\bin\Debug\netcoreapp3.1\FSangC.dll
+D:\C#\Chuong2_2015597\FSangC\bin\Debug\netcoreapp3.1\FSangC.pdb
+D:\C#\Chuong2_2015597\FSangC\obj\Debug\netcoreapp3.1\FSangC.AssemblyInfoInputs.cache
+D:\C#\Chuong2_2015597\FSangC\obj\Debug\netcoreapp3.1\FSangC.AssemblyInfo.cs
+D:\C#\Chuong2_2015597\FSangC\obj\Debug\netcoreapp3.1\FSangC.csproj.CoreCompileInputs.cache
+D:\C#\Chuong2_2015597\FSangC\obj\Debug\netcoreapp3.1\FSangC.dll
+D:\C#\Chuong2_2015597\FSangC\obj\Debug\netcoreapp3.1\FSangC.pdb
+D:\C#\Chuong2_2015597\FSangC\obj\Debug\netcoreapp3.1\FSangC.genruntimeconfig.cache
